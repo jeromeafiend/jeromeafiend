@@ -1,6 +1,6 @@
 # Jerome.
 
-dietcokedirtysprite
+DIETCOKEDIRTYSPRITE
 
 ---
 
